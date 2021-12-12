@@ -1,0 +1,6 @@
+*.json
+.eslintrc.js
+.prettierrc.js
+next.config.js
+babel.config.js
+libtheme.js
